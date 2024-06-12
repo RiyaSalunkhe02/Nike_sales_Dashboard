@@ -1,7 +1,7 @@
 # Nike_sales_Dashboard
 This project involves the creation of an interactive sales dashboard for Nike, showcasing key metrics and insights derived from sales data. The dashboard is built using Tableau, providing a comprehensive and visually engaging way to analyze sales performance.
 
-# Tools
+<h2> Tools</h2>
 Data Visualization: Tableau
 Data Source: Nike sales data
 
