@@ -14,5 +14,4 @@ The Nike Sales Dashboard provides actionable insights to help drive strategic de
 3) Customer Insights: Analyzes customer segments and their purchasing behaviors.
 4) Regional Analysis: Compares sales performance across different regions and identifies areas for growth.
 
-
-You can view the interactive dashboard <a href="https://github.com/RiyaSalunkhe02" # here </a>
+<a href="https://public.tableau.com/app/profile/riya.salunkhe/viz/NIKESALES/NIKESALESDASHBOARD"> Way to Nike!</a>
